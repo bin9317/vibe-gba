@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "gba_core",
+    "frontend",
+    "cli_debugger"
+]
+resolver = "2"

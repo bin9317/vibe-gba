@@ -1,0 +1,6 @@
+[submodule "third_party/gba-tests"]
+	path = third_party/gba-tests
+	url = https://github.com/jsmolka/gba-tests
+[submodule "third_party/mgba-suite"]
+	path = third_party/mgba-suite
+	url = https://github.com/mgba-emu/suite

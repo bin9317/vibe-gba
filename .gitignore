@@ -1,0 +1,15 @@
+/artifacts
+/roms
+/target
+/gba_bios.bin
+/tests/roms/gba-suite.gba
+*.state
+*.state.*
+*.sav
+*.sram.sav
+*.eeprom.sav
+*.ppm
+*.bmp
+*.png
+.gemini
+.DS_Store
