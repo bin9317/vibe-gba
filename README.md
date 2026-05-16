@@ -2,7 +2,7 @@
 
 `vibe-gba` is an experimental Game Boy Advance emulator written in Rust.
 
-![Demo](demo.mp4)
+![Demo](demo.gif)
 
 
 The repository is organized as a small Cargo workspace:
